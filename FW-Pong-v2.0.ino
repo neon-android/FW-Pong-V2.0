@@ -4,6 +4,7 @@
   Its a 1D Pong Game on an 1m, 60 Neopixel LED Strip
 
   FlyingAngel - 18.4.2020
+  MODIFICACIONES VICTOR FLORES
 */
 
 #define FASTLED_INTERNAL  // Disable version number message in FastLED library (looks like an error)
